@@ -21,7 +21,7 @@ This acount contains the repositories of Dr. Jalal Kiswani, which containts:
        - Jakarta Facaes Example (JSF) with JPA as backend dataaccess
        - Jakarta Facaes Example (JSF) with NOSQL as backend dataaccess
        - Jakarta Facaes Example (JSF) with NOSQL as Mongo dataaccess
-       - Jakarta Faces (JSF) frontend with mature microservice client calling the simple microservice project. 
+       - [Jakarta Faces (JSF) frontend with mature microservice client calling the simple microservice project](https://github.com/kiswanij/jkfamework-web-microservice-mature-client-example). 
 - Examples presented in workshops, professional training courses, and univesitiy courses
 - Other private stuff
 
