@@ -25,7 +25,7 @@ web-microservice-mature-client-example).
 - Examples presented in workshops, professional training courses, and univesitiy courses
 - Other private stuff
 
-**You reach Dr. Jalal at:** 
+**You can reach Dr. Jalal at:** 
 - [**LinkedIn**](https://www.linkedin.com/in/jalalkiswani/) 
 - [**Website**](https://jalalkiswani.com)
 - **eMail**: kiswnaij[**at**]gmail.com
