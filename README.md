@@ -1,5 +1,4 @@
 # GitHub Account of Jalal Kiswani
-
 This acount contains the repositories of Dr. Jalal Kiswani, which containts:
 - **JKFramework:** which is an end to end Java application framework developed by Dr. Jalal Kiswani, PhD and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, checkout https://smart-api.com for more information.
 - **JKFramework Examples**:   
@@ -23,7 +22,6 @@ web-microservice-mature-client-example).
        - [JPA example](https://github.com/kiswanij/jkframework-data-jpa-example) 
        - [NOSQL (MongoDB) example](https://github.com/kiswanij/jkframework-data-nosql-mongo-example)
        - [Git DataAccess example](https://github.com/kiswanij/jkframework-data-git-example)
-    
 - Examples presented in workshops, professional training courses, and univesitiy courses
 - Other private stuff
 
