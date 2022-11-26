@@ -18,11 +18,11 @@ This acount contains the repositories of Dr. Jalal Kiswani, which containts:
      - _JKFramework Web Examples_
        - [Simple Jakarta Faces (JSF) Example with zero setup](https://github.com/kiswanij/jk-framework-web-simple-example)
      
-     -_JKFramework WebStack Examples_ 
-       - Jakarta Facaes Example (JSF) with JDBC as backend dataaccess
-       - [Jakarta Facaes Example (JSF) with JPA as backend dataaccess](https://github.com/kiswanij/jk-framework-web-jpa-example)
-       - [Jakarta Facaes Example (JSF) with NOSQL as backend dataaccess](https://github.com/kiswanij/jk-framework-web-nosql-example)
-       - [Jakarta Facaes Example (JSF) with microservice as backend]
+     - _JKFramework WebStack Examples_  
+       - Jakarta Facaes Example (JSF) with JDBC as backend dataaccess 
+       - [Jakarta Facaes Example (JSF) with JPA as backend dataaccess](https://github.com/kiswanij/jk-framework-web-jpa-example)  
+       - [Jakarta Facaes Example (JSF) with NOSQL as backend dataaccess](https://github.com/kiswanij/jk-framework-web-nosql-example) 
+       - [Jakarta Facaes Example (JSF) with microservice as backend] 
        - [Jakarta Faces (JSF) frontend with mature microservice client calling the simple microservice project](https://github.com/kiswanij/jkfamework-web-microservice-mature-client-example). 
 - Examples presented in workshops, professional training courses, and univesitiy courses
 - Other private stuff
