@@ -1,6 +1,6 @@
 # GitHub Account of Jalal Kiswani
 This acount contains the repositories of Dr. Jalal Kiswani, which containts:
-- **JKFramework:** which is an end to end Java application framework based on _JakartaEE 10_ components such as _Faces, Preristence, CDI_ and can run on Tomcat with Zero-Configurations. Its developed by Dr. Jalal Kiswani, PhD and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, checkout https://smart-api.com for more information.
+- **JKFramework:** which is an end to end Java application framework based on _JakartaEE 10_ components such as _Faces, Preristence, CDI_ and can run on Tomcat with Zero-Configurations. Its developed by Dr. Jalal Kiswani, PhD and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, contact the author for more information.
 - **JKFramework Examples**:   
  A set of examples that implemented using the framework and could help you start faster, such as:
      - _JKFramework Web_
