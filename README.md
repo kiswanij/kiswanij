@@ -5,15 +5,15 @@ This acount contains the repositories of Dr. Jalal Kiswani, which containts:
 - **JKFramework Examples**:   
  A set of examples that implemented using the framework and could help you start faster, such as:
      - _JKFramework Web_
-       - [Simple Jakarta Faces (JSF) Example with zero setup](https://github.com/kiswanij/jkframework-web-simple-example 
+       - [Simple Jakarta Faces (JSF) Example with zero setup](https://github.com/kiswanij/jkframework-web-simple-example) 
        
      - _JKFramework WebStack_  
-       - Jakarta Facaes Example (JSF) with JDBC as backend dataaccess 
-       - [Jakarta Facaes Example (JSF) with JPA as backend dataaccess](https://github.com/kiswanij/jkframework-web-jpa-example)  
-       - [Jakarta Facaes Example (JSF) with NOSQL as backend dataaccess](https://github.com/kiswanij/jkframework-web-nosql-example) 
-       - [Jakarta Facaes Example (JSF) with microservice as backend] 
-       - [Jakarta Faces (JSF) frontend with mature microservice client calling the simple microservice project](https://github.com/kiswanij/jkfamework-
-web-microservice-mature-client-example). 
+       - [Jakarta Facaes 4 (JSF) with JDBC as backend dataaccess](https://github.com/kiswanij/jkframework-web-jdbc-example) 
+       - [Jakarta Facaes 4 (JSF) with JPA as backend dataaccess](https://github.com/kiswanij/jkframework-web-jpa-example)  
+       - [Jakarta Facaes 4 (JSF) with NOSQL as backend dataaccess](https://github.com/kiswanij/jkframework-web-nosql-example) 
+       - [Jakarta Facaes 4 (JSF) with microservice as backend](https://github.com/kiswanij/jkframework-web-microservice-client-example)
+       - [Jakarta Faces 4 (JSF) frontend with mature microservice client calling the simple microservice project](https://github.com/kiswanij/jkfamework-web-microservice-mature-client-example).
+       - [Jakarta Faces 4 (JSF) secured webapp based on Spring Security 6](https://github.com/kiswanij/jkfamework-web-microservice-mature-client-example)
 
     - _JKFramework Service_
        - [Simple Microservice](https://github.com/kiswanij/jkframework-microservice-example) 
