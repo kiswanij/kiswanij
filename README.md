@@ -5,7 +5,7 @@ This acount contains the repositories of Dr. Jalal Kiswani, which containts:
 - **JKFramework Examples**:   
  A set of examples that implemented using the framework and could help you start faster, such as:
      - _JKFramework Web_
-       - [Simple Jakarta Faces (JSF) Example with zero setup](https://github.com/kiswanij/jkframework-web-simple-example) 
+       - [Simple Jakarta Faces (JSF) Example with zero configuration](https://github.com/kiswanij/jkframework-web-simple-example) 
        
      - _JKFramework WebStack_  
        - [Jakarta Facaes 4 (JSF) with JDBC as backend dataaccess](https://github.com/kiswanij/jkframework-web-jdbc-example) 
