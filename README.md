@@ -1,6 +1,6 @@
 # GitHub Account of Jalal Kiswani
 This acount contains the repositories of Dr. Jalal Kiswani, which containts:
-- **JFramework:** which is an end to end Java application framework based on _JakartaEE 10_ components such as _Faces, Preristence, CDI_ and can run on Tomcat with Zero-Configurations. Its developed by Dr. Jalal Kiswani, PhD and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, contact the author for more information. The new documentation can be found [here](https://j-framework.com).
+- **JFramework:** an end-to-end Java application framework based on _JakartaEE 10_ components such as _Faces, Preristence, CDI_ and can run on Tomcat with Zero-Configurations. Its developed by Dr. Jalal Kiswani, and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, contact the author for more information. The full documentation can be found [here](https://j-framework.com).
 
 - **JFramework Examples**:   
  A set of examples that implemented using the framework and could help you start faster, such as:
@@ -31,6 +31,6 @@ This acount contains the repositories of Dr. Jalal Kiswani, which containts:
 - Other private stuff
 
 **You can reach Dr. Jalal at:** 
-- [**LinkedIn**](https://www.linkedin.com/in/jalalkiswani/) 
 - [**Website**](https://jalalkiswani.com)
+- [**LinkedIn**](https://www.linkedin.com/in/jalalkiswani/) 
 - **eMail**: kiswnaij[**at**]gmail.com
