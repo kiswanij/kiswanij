@@ -1,5 +1,5 @@
 # GitHub Account of Jalal Kiswani
-This acount contains the repositories of Dr. Jalal Kiswani, which containts:
+This acount contains the repositories of Dr. Jalal Kiswani, which consists of:
 - **JFramework:** an end-to-end Java application framework based on _JakartaEE 10_ components such as _Faces, Preristence, CDI_ and can run on Tomcat with Zero-Configurations. Its developed by Dr. Jalal Kiswani, and currently implemented in mission critical systems in many startups and enterprises. It  enables faster and reliable Java web application development, contact the author for more information. The full documentation can be found [here](https://j-framework.com).
 
 - **JFramework Examples**:   
